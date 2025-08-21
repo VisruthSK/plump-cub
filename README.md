@@ -1,14 +1,18 @@
 # ᕦʕ •ᴥ•ʔᕤ Plump Cub
 
+[![MIT license](https://img.shields.io/github/license/visruthsk/plump-cub)](https://github.com/visruthsk/plump-cub/blob/main/LICENSE)
+
 **UNDER CONSTRUCTION.**
 
 A chubbier [Bear Cub](https://github.com/clente/hugo-bearcub).
 
+---
+
 Plump Cub is a soft fork of [Bear Cub](https://github.com/clente/hugo-bearcub) which aims to be a plumper version of its very lean parent Hugo theme. Plump Cub enjoys some of Bear Cub's advantages with regards to optimization, speed, and security due to the work of Caio Lente, but layers some heavier niceities on top which aren't suitable for the svelte Bear Cub. 
 
-If you want some extra features which Bear Cub can't have, Plump Cub may be for you--or you should use Bear Cub and layer your changes atop it, like I did before this theme.
+If you want some extra features which Bear Cub can't have, Plump Cub may be for you--or you should use Bear Cub and layer your changes atop it, like I did before this theme. I'd strongly suggest that you consider Bear Cub first.
 
-## Added Features
+## Additional Features
 
 Plump Cub is a medley of trivial and meaningful changes:
 
@@ -16,9 +20,7 @@ Plump Cub is a medley of trivial and meaningful changes:
 * Bibjson bibiliography and citation support ([example](https://www.visruth.com/blog/20250508-01/))
 * External links marked ([top of this page](https://www.visruth.com/reviews/20250809-01/))
 * RSS exlcusion per page
-
-[![github pages](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/clente/hugo-bearcub/actions/workflows/gh-pages.yml)
-[![MIT license](https://img.shields.io/github/license/visruthsk/plump-cub)](https://github.com/visruthsk/plump-cub/blob/main/LICENSE)
+* Toggalable byline
 
 ## Overview
 
